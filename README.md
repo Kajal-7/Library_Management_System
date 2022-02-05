@@ -24,4 +24,4 @@ Tables:
 
 2.students(Contains list of all students)
 
-3.issuelist (Contains list of all the books issued that is maintains the history of all the books issued)
+3.issuelist (It maintains the history of all the books issued)
